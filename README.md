@@ -66,6 +66,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -117,4 +118,12 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
