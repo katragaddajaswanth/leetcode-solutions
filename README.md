@@ -8,6 +8,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -53,6 +54,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [0205-isomorphic-strings](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -69,6 +71,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [0020-valid-parentheses](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
@@ -112,6 +115,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
