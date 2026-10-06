@@ -17,6 +17,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -27,6 +28,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -39,6 +41,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2413-smallest-even-multiple](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3516-find-closest-person](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -136,4 +139,8 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
