@@ -6,6 +6,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -143,4 +144,8 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
