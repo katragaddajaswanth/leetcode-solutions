@@ -13,6 +13,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -62,6 +63,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -150,6 +152,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Brainteaser
 |  |
 | ------- |
