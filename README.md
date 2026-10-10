@@ -59,6 +59,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -79,6 +80,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -151,6 +153,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Brainteaser
