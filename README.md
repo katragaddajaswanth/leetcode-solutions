@@ -37,6 +37,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -160,4 +161,12 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
