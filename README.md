@@ -18,6 +18,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -68,6 +69,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -169,4 +171,12 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
