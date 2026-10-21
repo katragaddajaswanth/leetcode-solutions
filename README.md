@@ -91,6 +91,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0065-valid-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0065-valid-number) |
 | [0205-isomorphic-strings](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
