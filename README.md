@@ -54,6 +54,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2843-count-symmetric-integers](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
+| [2864-maximum-odd-binary-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3100-water-bottles-ii](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3100-water-bottles-ii) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -102,6 +103,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2864-maximum-odd-binary-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -164,6 +166,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [2864-maximum-odd-binary-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
