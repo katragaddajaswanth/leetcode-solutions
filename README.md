@@ -58,6 +58,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2843-count-symmetric-integers](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
+| [2928-distribute-candies-among-children-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2928-distribute-candies-among-children-i) |
 | [3100-water-bottles-ii](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3100-water-bottles-ii) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -208,8 +209,13 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
+| [2928-distribute-candies-among-children-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2928-distribute-candies-among-children-i) |
 ## Prime Factorization
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
+## Combinatorics
+|  |
+| ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2928-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
