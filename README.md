@@ -17,6 +17,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -56,6 +57,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [2413-smallest-even-multiple](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2843-count-symmetric-integers](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2928-distribute-candies-among-children-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2928-distribute-candies-among-children-i) |
@@ -109,6 +111,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
