@@ -6,6 +6,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -47,6 +48,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | ------- |
 | [0070-climbing-stairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0223-rectangle-area) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
