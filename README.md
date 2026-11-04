@@ -29,6 +29,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [3467-transform-array-by-parity](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -70,6 +71,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [3280-convert-date-to-binary](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3516-find-closest-person](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3895-count-digit-appearances) |
