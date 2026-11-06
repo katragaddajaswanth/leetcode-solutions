@@ -113,6 +113,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [0065-valid-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0065-valid-number) |
 | [0205-isomorphic-strings](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1678-goal-parser-interpretation](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
