@@ -14,6 +14,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -116,6 +117,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [0438-find-all-anagrams-in-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1678-goal-parser-interpretation](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
