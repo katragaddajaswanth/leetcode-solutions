@@ -29,6 +29,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
