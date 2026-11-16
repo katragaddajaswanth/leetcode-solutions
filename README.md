@@ -28,6 +28,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
