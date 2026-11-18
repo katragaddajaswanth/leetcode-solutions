@@ -52,6 +52,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [2180-count-integers-with-even-digit-sum](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3100-water-bottles-ii](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3100-water-bottles-ii) |
+| [3174-clear-digits](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -135,6 +136,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [2269-find-the-k-beauty-of-a-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
+| [3174-clear-digits](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -191,6 +193,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [3174-clear-digits](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
