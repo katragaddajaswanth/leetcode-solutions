@@ -19,6 +19,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [1816-truncate-sentence](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -130,6 +131,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [1816-truncate-sentence](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
