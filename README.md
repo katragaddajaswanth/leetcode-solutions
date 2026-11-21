@@ -21,6 +21,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -253,6 +254,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
 |  |
