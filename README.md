@@ -36,6 +36,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3285-find-indices-of-stable-mountains](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3467-transform-array-by-parity](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
