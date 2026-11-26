@@ -71,6 +71,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [1401-circle-and-rectangle-overlapping](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1837-sum-of-digits-in-base-k](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
