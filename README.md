@@ -15,6 +15,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [1528-shuffle-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -133,6 +134,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [1528-shuffle-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -158,6 +160,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2574-left-and-right-sum-differences](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
